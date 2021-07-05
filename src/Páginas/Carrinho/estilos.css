@@ -1,0 +1,18 @@
+.titulo-carrinho{
+    text-align: center;
+    margin-bottom: 26px;
+}
+
+.tabela-pedido{
+    width: 50%;
+    margin: auto;
+}
+
+.container-finalizar {
+   margin-top: 50px;
+    text-align: center;
+}
+
+.botao-finalizar-carrinho{
+    margin-bottom: 30px;
+}
